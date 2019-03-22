@@ -4,5 +4,9 @@
   "description": "Console Cheating JS",
   "main": "index.js",
   "author": "Mateusz Krawczyk <matrix0123456789@tlen.pl>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/matrix0123456789/console-cheating"
+  }
 }
