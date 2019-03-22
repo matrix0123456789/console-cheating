@@ -1,0 +1,8 @@
+{
+  "name": "console-cheating",
+  "version": "1.0.0",
+  "description": "Console Cheating JS",
+  "main": "index.js",
+  "author": "Mateusz Krawczyk <matrix0123456789@tlen.pl>",
+  "license": "MIT"
+}
